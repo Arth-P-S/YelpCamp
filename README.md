@@ -29,8 +29,3 @@ Welcome to YelpCamp! This is a full-stack web application that allows users to v
 - **JavaScript**: Client-side scripting for interactivity.
 - **Cloudinary**: Cloud-based image and video management platform for storing campground images.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-This project was inspired by Colt Steele's Web Developer Bootcamp on Udemy.
